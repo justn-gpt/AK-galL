@@ -15,7 +15,6 @@ vless://5f301020-9b83-493f-94a9-75fb761ef0d3@hajlab.ucdavis.edu:80?path=%2F&secu
 vless://5f301020-9b83-493f-94a9-75fb761ef0d3@hajlab.ucdavis.edu:80?path=%2F&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v20.drlimit.net&type=ws#server_243
 vless://5f301020-9b83-493f-94a9-75fb761ef0d3@hajlab.ucdavis.edu:80?path=%2F&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.feadlenetwork19922h.net&type=ws#server_244
 vless://57b8785b-e9dd-48d0-8dd3-4c39690135da@24.144.80.132:443?security=reality&encryption=none&pbk=cj1USh3IXd1R7g25MllYvMCaPsakiz7UwFwqMcCyADM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=314cc93c53ad60#server_245
-vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@inthenameofgodfragment.ignorelist.com:443?security=auto&type=ws&host=fari.clodmolt3.com&path=%2Fwss&sni=fari.clodmolt3.com&alpn=h3,h2,http/1.1&fp=chrome&encryption=none#server_248
 vless://5f301020-9b83-493f-94a9-75fb761ef0d3@hajlab.ucdavis.edu:80?path=%2F&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.feadlenetwork19922h.net&type=ws#server_253
 vless://5f301020-9b83-493f-94a9-75fb761ef0d3@hajlab.ucdavis.edu:80?path=%2F&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v16.drlimit.net&type=ws#server_254
 vless://5f301020-9b83-493f-94a9-75fb761ef0d3@hajlab.ucdavis.edu:80?path=%2F&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.drlimit.net&type=ws#server_256
