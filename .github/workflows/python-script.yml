@@ -1,14 +1,6 @@
 name: Auto Node Update
 on:
-  schedule:
-    - cron: '0 17 * * *'  # UTC时间17点(北京时间1点)
-      timezone: Asia/Shanghai
-  push:
-    branches: [main]
-    paths:
-      - 'dist/GH-AC-main.py'
-      - '.github/workflows/python-script.yml'
-  workflow_dispatch:
+  workflow_dispatch:  # 手动触发工作流
 
 jobs:
   update:
